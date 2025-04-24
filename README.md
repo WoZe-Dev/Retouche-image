@@ -19,7 +19,7 @@ Le tout dans une interface sombre et futuriste 🎨.
 - ✅ Prise en charge de tous les formats courants (`.jpg`, `.jpeg`, `.png`, `.webp`, etc.)
 
 
-![Aperçu de PhotoRoom Studio](img.PNG)
+![Aperçu de PhotoRoom Studio](imgg.PNG)
 
 ### 📦 Installation
 
